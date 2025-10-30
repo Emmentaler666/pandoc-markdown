@@ -6,4 +6,4 @@ Ova dokumentacija skluzi u svrhu primjene pandoc-a za konverziju datoteka, odnos
 2. lick my 🐱 [Uvod u markdown](01-markdown-primjeri.md) lick my 🐱
 
 
-<img src= "Tux.png" with:"30%">
+<img src= "Tux.png" width:"30%">
