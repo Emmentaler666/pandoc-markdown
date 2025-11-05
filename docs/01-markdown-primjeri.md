@@ -53,4 +53,4 @@ Primjer:
 ```bash
 [Slika neceg](https://slikaneceg.jpg)
 ```
-[cigan](https://i1.sndcdn.com/artworks-xc2GQDbvaximnB7y-nu2InA-t500x500.jpg)
+[cigan](cigo.png)
