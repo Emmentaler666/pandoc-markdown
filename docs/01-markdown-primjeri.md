@@ -30,10 +30,14 @@ Izgledat ce ovako:
 - Druga crta
 - Treca crta
 - Koma
+
+  
 ### Za isticanje neke rijeci mozemo koristiti kurziv, podebljan tekst ili oboje
 Ako zelimo kurziv, na pocetak i na kraj rijeci stavljamo jedan asterisk (*)
 *Kurziv*
+
 Za podebljanje stavljamo dva na pocetak i na kraj (**)
 **Bold**
+
 A ako zelimo oboje koristimo tri 
 ***Vidis***
