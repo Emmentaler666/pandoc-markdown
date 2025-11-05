@@ -45,3 +45,12 @@ Za podebljanje stavljamo dva na pocetak i na kraj (**):
 A ako zelimo oboje koristimo tri:
 
 ***Vidis***
+
+###Umetanje slike 
+Za umetanje slike potrebno je upisati opis slike u uglate zagrade [ ], te nakon toga poveznicu za sliku u obicnim zagradama ()
+
+Primjer: 
+```bash
+[Slika neceg](https://slikaneceg.jpg)
+```
+[cigan](C:\Users\krist\Pictures)
