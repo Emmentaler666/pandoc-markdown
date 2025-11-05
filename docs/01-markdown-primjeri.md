@@ -62,4 +62,4 @@ Primjer:
 ```bash
 ![Google](https://google.com)
 ```
-![Google](https://google.com)
+[Google](https://google.com)
