@@ -77,7 +77,7 @@ crtica - nam pomaze napraviti red u tablici, a vertikalni stup | za odvajanje su
 |-------|-------------|
 | Real Madrid | 15 |
 | AC Milan | 7 |
-| Liverpool | 6 |
+| Liverpool/Bayern Munchen | 6 |
 ```
 Izvrseno izgleda ovako:
 
@@ -86,5 +86,5 @@ Izvrseno izgleda ovako:
 |-------|-------------|
 | Real Madrid | 15 |
 | AC Milan | 7 |
-| Liverpool | 6 |
+| Liverpool/Bayern Munchen | 6 |
 
