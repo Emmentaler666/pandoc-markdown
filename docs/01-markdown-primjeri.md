@@ -53,4 +53,4 @@ Primjer:
 ```bash
 [Slika neceg](https://slikaneceg.jpg)
 ```
-![cigan](cigo.png)
+![cigan](static/cigo.png)
