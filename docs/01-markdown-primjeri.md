@@ -1,4 +1,4 @@
-# Markdown
+ # Markdown
 
 ## Osnovna sintaksa
 Koristimo...
@@ -51,7 +51,7 @@ Za umetanje slike potrebno je upisati opis slike u uglate zagrade [ ], te nakon 
 
 Primjer: 
 ```bash
-[Slika neceg](https://slikaneceg.jpg)
+![Slika neceg](https://slikaneceg.jpg)
 ```
 ![cigan](https://github.com/Emmentaler666/pandoc-markdown/blob/main/static/cigo.png)
 
@@ -60,6 +60,6 @@ Potrebno je dodati tekst koji je povezan sa slikom u uglatim zagradama [], te li
  
 Primjer:
 ```bash
-![Google](https://google.com)
+[Google](https://google.com)
 ```
 [Google](https://google.com)
