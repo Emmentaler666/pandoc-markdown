@@ -24,6 +24,7 @@ Izlgeda ovako:
 1. Jedan
 2. Dva
 3. Tri
+
 Za nenumerirane liste samo mozemo koristiti znak -
 Izgledat ce ovako:
 - Prva crta
