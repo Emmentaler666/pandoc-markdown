@@ -54,3 +54,12 @@ Primjer:
 [Slika neceg](https://slikaneceg.jpg)
 ```
 ![cigan](https://github.com/Emmentaler666/pandoc-markdown/blob/main/static/cigo.png)
+
+###Ako zelimo navesti link 
+Potrebno je dodati tekst koji je povezan sa slikom u uglatim zagradama [], te link na stranicu u obicnim ()
+ 
+Primjer:
+```bash
+![Google](https://google.com)
+```
+![Google](https://google.com)
