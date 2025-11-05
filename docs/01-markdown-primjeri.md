@@ -20,6 +20,7 @@ To bi izgledalo ovako
 ### Za kreiranje listi:
 Za kreiranje listi imamo numerirane i nenumerirane opcije 
 Za numeriranu jednostavno upisemo brojeve od 1. pa na dalje
+
 Izlgeda ovako:
 1. Jedan
 2. Dva
