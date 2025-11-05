@@ -65,3 +65,26 @@ Primjer:
 [Google](https://google.com)
 ```
 [Google](https://google.com)
+
+### Za umetanje tablica:
+
+Tablice se rade uz pomoc simbola -, te simbola | 
+
+crtica - nam pomaze napraviti red u tablici, a vertikalni stup | za odvajanje sutpaca
+
+```bash
+| Klub | Liga Prvaka osvojena |
+|-------|-------------|
+| Real Madrid | 15 |
+| AC Milan | 7 |
+| Liverpool | 6 |
+```
+Izvrseno izgleda ovako:
+
+
+| Klub | Liga Prvaka osvojena |
+|-------|-------------|
+| Real Madrid | 15 |
+| AC Milan | 7 |
+| Liverpool | 6 |
+
