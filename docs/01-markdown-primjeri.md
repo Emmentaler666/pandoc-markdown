@@ -1,5 +1,5 @@
 ---
-Nasloc: "Uvod u Markdown"
+Naslov: "Uvod u Markdown"
 Autor: "Kristijan Bobanovic"
 Datum: "5. studenoga 2025."
 Jezik: "hr"
