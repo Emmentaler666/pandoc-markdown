@@ -53,4 +53,4 @@ Primjer:
 ```bash
 [Slika neceg](https://slikaneceg.jpg)
 ```
-![cigan](static/cigo.png/cigo.png)
+![cigan](https://github.com/Emmentaler666/pandoc-markdown/blob/main/static/cigo.png)
